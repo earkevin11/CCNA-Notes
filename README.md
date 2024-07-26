@@ -1,3 +1,3 @@
-# Leetcode Practice Python
+# Leetcode Practice C#
 - [Two Sum]()
 - [Palindrome Number]()
